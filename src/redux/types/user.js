@@ -1,0 +1,7 @@
+export const ADD_USER = "ADD_USER";
+export const UPDATE_USER = "UPDATE_USER";
+export const DELETE_USER = "DELETE_USER";
+export const SET_USER = "GET_USER";
+export const SET_USER_ALL = "GET_USER_ALL";
+export const SET_ACTION_USER_MESSAGE = "SET_ACTION_USER_MESSAGE";
+export const CLEAR_ACTION_USER_MESSAGE = "CLEARE_ACTION_USER_MESSAGE";
